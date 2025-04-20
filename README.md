@@ -4,14 +4,14 @@
 <!--Body-->
 
 ## Table of Contents
-- [🔮 I. Tech Stack](#-i-tech-stack)
-- [🌆 II. Detail Info](#-ii-detail-info)
-  - [🌒 i. Education](#-i-education)
-  - [🌓 ii. Awards (5)](#-ii-awards-5)
-  - [🌔 iii. Certificates (2)](#-iii-certificates-2)
-  - [🌕 iv. SW Development Project (3)](#-iv-sw-development-project-3)
-- [🎇 III. Github Stats](#-iii-github-stats)
-- [🎮 IV. Algorithm](#-iv-algorithm)
+- 🔮 **I. Tech Stack**
+- 🌆 **II. Detail Info**
+  - 🌒 i. Education
+  - 🌓 ii. Awards (5)
+  - 🌔 iii. Certificates (2)
+  - 🌕 iv. SW Development Project (3)
+- 🎇 **III. Github Stats**
+- 🎮 **IV. Algorithm**
 
 <br/>
 <br/>
@@ -19,46 +19,26 @@
 ## 🔮 I. Tech Stack
 
 > ### Language
-<!--Python-->
-<img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python&logoColor=3776AB"/>
-<!--JavaScript-->
-<img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/>
-<!--CSS-->
-<img src="https://img.shields.io/badge/CSS3-black?style=flat-square&logo=CSS3&logoColor=1572B6"/>
-<!--HTML5-->
-<img src="https://img.shields.io/badge/HTML5-black?style=flat-square&logo=HTML5&logoColor=E34F26"/>
+| <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python&logoColor=3776AB"/> | <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/> | <img src="https://img.shields.io/badge/CSS3-black?style=flat-square&logo=CSS3&logoColor=1572B6"/> | <img src="https://img.shields.io/badge/HTML5-black?style=flat-square&logo=HTML5&logoColor=E34F26"/> |
+|---|---|---|---|
 <br/>
 
 > ### Library
-<!--React-->
-<img src="https://img.shields.io/badge/React-black?style=flat-square&logo=React&logoColor=61DAFB&Color=61DAFB"/>
-<!--Mapbox-->
-<img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=Mapbox&logoColor=white"/>
-<!--Selenium-->
-<img src="https://img.shields.io/badge/Selenium-black?style=flat-square&logo=Selenium&logoColor=43B02A"/>
+| <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=React&logoColor=61DAFB&Color=61DAFB"/> | <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=Mapbox&logoColor=white"/> | <img src="https://img.shields.io/badge/Selenium-black?style=flat-square&logo=Selenium&logoColor=43B02A"/> |
+|---|---|---|
 <br/>
 
 > ### Framework
-<!--Node.js-->
-<img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=Node.js&logoColor=#5FA04E"/>
-<!--Vue.js-->
-<img src="https://img.shields.io/badge/Vue.js-black?style=flat-square&logo=Vue.js&logoColor=#4FC08D"/>
-<!--Django-->
-<img src="https://img.shields.io/badge/Django-black?style=flat-square&logo=Django&logoColor=092E20"/>
+| <img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=Node.js&logoColor=#5FA04E"/> | <img src="https://img.shields.io/badge/Vue.js-black?style=flat-square&logo=Vue.js&logoColor=#4FC08D"/> | <img src="https://img.shields.io/badge/Django-black?style=flat-square&logo=Django&logoColor=092E20"/> |
+|---|---|---|
 
 > ### Build Tool
-<!--Vite-->
-<img src="https://img.shields.io/badge/Vite-black?style=flat-square&logo=Vite&logoColor=#646CFF"/>
-<!--Docker-->
-<img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=Docker&logoColor=#2496ED"/>
+| <img src="https://img.shields.io/badge/Vite-black?style=flat-square&logo=Vite&logoColor=#646CFF"/> | <img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=Docker&logoColor=#2496ED"/> |
+|---|---|
 
 > ### Etc.
-<!--MySQL-->
-<img src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=MySQL&logoColor=white"/>
-<!--PostgreSQL-->
-<img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=PostgreSQL&logoColor=white"/>
-<!--Jira-->
-<img src="https://img.shields.io/badge/Jira-black?style=flat-square&logo=Jira&logoColor=#0052CC"/>
+| <img src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=MySQL&logoColor=white"/> | <img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=PostgreSQL&logoColor=white"/> | <img src="https://img.shields.io/badge/Jira-black?style=flat-square&logo=Jira&logoColor=#0052CC"/> |
+|---|---|---|
 
 <br/>
 <br/>
