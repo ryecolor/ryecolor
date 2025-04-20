@@ -3,19 +3,6 @@
 
 <!--Body-->
 
-## Table of Contents
-- 🔮 **I. Tech Stack**
-- 🌆 **II. Detail Info**
-  - 🌒 i. Education
-  - 🌓 ii. Awards (5)
-  - 🌔 iii. Certificates (2)
-  - 🌕 iv. SW Development Project (3)
-- 🎇 **III. Github Stats**
-- 🎮 **IV. Algorithm**
-
-<br/>
-<br/>
-
 ## 🔮 I. Tech Stack
 
 > ### Language
@@ -58,7 +45,7 @@ Bachelor’s Degree in Culture and Technology from Sungkyunkwan University (SKKU
 ```
 <br/>
 
-> ### 🌓 ii. Awards (5)
+> ### 🌓 ii. Awards
 ```
 🐾 2025. 2.
 
@@ -66,16 +53,10 @@ Bachelor’s Degree in Culture and Technology from Sungkyunkwan University (SKKU
 Excellence Award in AIoT Project, Samsung SW·AI academy For Youth (SSAFY) / Samsung Electronics
 ```
 ```
-🐾 2024. 8.
-
-성균 우등 졸업상 / 성균관대학교
-SKKU Magna Cum Laude / Sungkyunkwan University (SKKU)
-```
-```
 🐾 2023. 6.
 
-법무정책적 사고와 미래기술을 융합한 범죄 대응 아이디어 대회 우수상 / 성균관대학교 사회과학대학 및 소프트웨어융합대학
-Excellence Award, Crime Response Idea Contest Integrating Legal Policy Thinking and Future Technology / College of Social Sciences & College of Software Convergence, Sungkyunkwan University (SKKU)
+법무정책적 사고와 미래기술을 융합한 범죄 대응 아이디어 대회 우수상 / 성균관대학교
+Excellence Award, Crime Response Idea Contest Integrating Legal Policy Thinking and Future Technology / Sungkyunkwan University (SKKU)
 ```
 ```
 🐾 2023. 3.
@@ -83,25 +64,14 @@ Excellence Award, Crime Response Idea Contest Integrating Legal Policy Thinking 
 스마트 피트니스 HIRAX 센터 서비스 해커톤 최우수상 / (주)디랙스
 Grand Prize, Smart Fitness HIRAX Center Service Hackathon / Dirax Co., Ltd.
 ```
-```
-🐾 2023. 2.
-
-2022학년도 캡스톤 디자인 아이디어 경진대회 우수상 / (주)로직스퀘어 외 3개 기업
-Excellence Award, 2022 Capstone Design Idea Competition / Logicsquare Co., Ltd. and 3 other companies
-```
 <br/>
 
-> ### 🌔 iii. Certificates (2)
+> ### 🌔 iii. Certificates
 ```
 🐾 2025. 4.
 
 SQL 개발자 (SQLD) / 한국데이터산업진흥원
 SQL Developer / K-data
-```
-```
-🐾 2024. 12.
-
-Google Analytics Certification (GAC) / Google
 ```
 <br/>
 
@@ -130,9 +100,8 @@ Google Analytics Certification (GAC) / Google
 그 사람의 MBTI를 들여다보는 인물 중심 로맨스 영화 추천 서비스
 <MVTU: Mbti of moVie characters Telling about U>
 ```
+<br/>
 
-<br/>
-<br/>
 
 ## 🎇 III. Github Stats
 
