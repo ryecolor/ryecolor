@@ -166,5 +166,12 @@ Google Analytics Certification (GAC) / Google
 
 ## 🎮 IV. Algorithm
 
+```
+🐾 2024. 8.
+
+삼성청년SW·AI아카데미 알고리즘 테스트 IM 등급 취득
+Obtained IM Grade in Algorithm Test at Samsung SW·AI academy For Youth (SSAFY)
+```
+
 | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryekingdom)](https://solved.ac/ryekingdom/) | ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ryekingdom&theme=dark) |
 | :--: | :--: |
