@@ -47,6 +47,12 @@ Bachelor’s Degree in Culture and Technology from Sungkyunkwan University (SKKU
 
 > ### 🌓 ii. Awards
 ```
+🐾 2025. 5.
+
+삼성청년SW·AI아카데미 AI 솔루션 앱 개발 프로젝트 우수상 / 삼성전자
+Excellence Award in AIoT Project, Samsung SW·AI academy For Youth (SSAFY) / Samsung Electronics
+```
+```
 🐾 2025. 2.
 
 삼성청년SW·AI아카데미 AIoT 프로젝트 우수상 / 삼성전자
@@ -75,7 +81,15 @@ SQL Developer / K-data
 ```
 <br/>
 
-> ### 🌕 iv. SW Development Project (3)
+> ### 🌕 iv. SW Development Project (4)
+``` python
+🐾 2025. 4. - 2025. 5.
+
+#AI #Solution #Android #App #Front-end
+
+AI 홀드 분석 기반 클라이밍 솔루션 앱
+<CLIMBEAR: CLIMB EAsieR>
+```
 ``` python
 🐾 2025. 2. - 2025. 4.
 
