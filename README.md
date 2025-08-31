@@ -134,5 +134,5 @@ AI 홀드 분석 기반 클라이밍 솔루션 앱
 Obtained IM Grade in Algorithm Test at Samsung SW·AI academy For Youth (SSAFY)
 ```
 
-| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryekingdom)](https://solved.ac/ryekingdom/) | ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ryekingdom&theme=dark) |
+| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryecolor)](https://solved.ac/ryecolor/) | ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ryecolor&theme=dark) |
 | :--: | :--: |
