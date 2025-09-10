@@ -37,12 +37,6 @@
 삼성청년SW·AI아카데미 12기
 Samsung SW·AI academy For Youth (SSAFY)
 ```
-```
-🐾 2019. 3. - 2024. 8.
-
-성균관대학교 소프트웨어융합대학 컬처앤테크놀로지학사
-Bachelor’s Degree in Culture and Technology from Sungkyunkwan University (SKKU)
-```
 <br/>
 
 > ### 🌓 ii. Awards
@@ -57,12 +51,6 @@ Excellence Award in AIoT Project, Samsung SW·AI academy For Youth (SSAFY) / Sam
 
 삼성청년SW·AI아카데미 AIoT 프로젝트 우수상 / 삼성전자
 Excellence Award in AIoT Project, Samsung SW·AI academy For Youth (SSAFY) / Samsung Electronics
-```
-```
-🐾 2023. 6.
-
-법무정책적 사고와 미래기술을 융합한 범죄 대응 아이디어 대회 우수상 / 성균관대학교
-Excellence Award, Crime Response Idea Contest Integrating Legal Policy Thinking and Future Technology / Sungkyunkwan University (SKKU)
 ```
 ```
 🐾 2023. 3.
