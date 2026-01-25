@@ -6,7 +6,7 @@
 ## 🔮 I. Tech Stack
 
 > ### Language
-| <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python&logoColor=3776AB"/> | <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/> | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> |
+| <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python&logoColor=3776AB"/> | <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/> | <img src="https://img.shields.io/badge/CSS3-black?style=flat-square&logo=CSS3&logoColor=1572B6"/> |
 |---|---|---|
 
 > ### Library
